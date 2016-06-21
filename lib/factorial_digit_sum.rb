@@ -12,4 +12,4 @@ def factorial_digit_sum(input)
   puts sum_digits(factorial(input))
 end
 
-factorial_digit_sum(4)
+factorial_digit_sum(100)
